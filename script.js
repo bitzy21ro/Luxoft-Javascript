@@ -154,4 +154,9 @@ console.log(typeof var2);
 
 // Ex 12
 
-console.log(nul + );
+console.log(nul + nul);
+
+console.log(1+{});
+console.log(1+[2,3]);
+console.log(100+NaN);
+console.log('200'-'100');
