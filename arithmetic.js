@@ -33,3 +33,8 @@ for (let index = 0; index < 6; index++) {
     // console.log(str[index] + str [index+1]); 
     console.log(this['str' + index] + this['str' + (index+1)]);
 };
+
+console.log(100 + '200');
+console.log(100-'200');
+
+
